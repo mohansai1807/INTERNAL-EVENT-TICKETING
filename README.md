@@ -40,27 +40,6 @@ Database:
 
 MySQL / MongoDB
 
-Tools:
 
-Git & GitHub
-Postman
-📂 Project Structure
-event-ticketing/
-│
-├── frontend/        # Frontend UI code
-├── backend/         # Server-side logic
-├── database/        # Database configuration
-├── assets/          # Images and static files
-└── README.md
-⚙️ Installation & Setup
-Clone the repository
-git clone https://github.com/your-username/event-ticketing.git
-cd event-ticketing
-Install dependencies
-npm install
-Run the application
-npm start
-Backend setup (if applicable)
-Configure database in .env file
 Run backend server
 npm run server
