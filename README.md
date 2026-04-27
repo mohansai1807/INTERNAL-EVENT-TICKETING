@@ -29,12 +29,11 @@ Frontend:
 
 HTML
 CSS
-JavaScript
-React (optional)
+React 
 
 Backend:
 
-Node.js / Java / Spring Boot
+Node.js 
 
 Database:
 
