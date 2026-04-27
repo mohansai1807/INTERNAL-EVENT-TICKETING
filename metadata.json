@@ -1,0 +1,6 @@
+{
+  "name": "Internal Event Ticketing",
+  "description": "A ticket booking system for department-specific events with real-time availability tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
