@@ -1,20 +1,64 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎟️ Event Ticketing System
+📌 Overview
 
-# Run and deploy your AI Studio app
+The Event Ticketing System is a full-stack web application that allows users to browse events, book tickets, and manage reservations, while organizers can create and manage events.
+This project demonstrates real-world concepts like user authentication, booking systems, payment handling, and database integration.
 
-This contains everything you need to run your app locally.
+🚀 Features
+👤 User / Attendee
+User registration and login
+Browse events by category, date, and location
+View event details
+Book tickets online
+View and manage bookings
+🏢 Event Organizer
+Organizer registration and login
+Create and publish events
+Edit or delete events
+Manage bookings and attendees
+Track ticket sales
+🔐 Authentication & Security
+Secure login/logout system
+Role-based access (User / Organizer)
+Input validation and data protection
+🛠️ Technologies Used
 
-View your app in AI Studio: https://ai.studio/apps/829af767-311f-4769-9fd9-0535820a7e37
+Frontend:
 
-## Run Locally
+HTML
+CSS
+JavaScript
+React (optional)
 
-**Prerequisites:**  Node.js
+Backend:
 
+Node.js / Java / Spring Boot
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Database:
+
+MySQL / MongoDB
+
+Tools:
+
+Git & GitHub
+Postman
+📂 Project Structure
+event-ticketing/
+│
+├── frontend/        # Frontend UI code
+├── backend/         # Server-side logic
+├── database/        # Database configuration
+├── assets/          # Images and static files
+└── README.md
+⚙️ Installation & Setup
+Clone the repository
+git clone https://github.com/your-username/event-ticketing.git
+cd event-ticketing
+Install dependencies
+npm install
+Run the application
+npm start
+Backend setup (if applicable)
+Configure database in .env file
+Run backend server
+npm run server
